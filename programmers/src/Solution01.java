@@ -14,7 +14,7 @@ public class Solution01 {
         int end = 0;
 
         for (int i = 0; i < commands.length; i++) {
-            start = commands[i][0];
+            start = commands[i][0];//2
             end = commands[i][1];
             int[] temp = new int[end-start+1];
             int result = 0;

@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e26c211-41a6-488e-ba27-5ec2f9d10b1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baeckjoon2588.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon10171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon10172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../입출력/src/baekjoon10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting/src/bk2750.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorting_Searching/src/MergeInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/out/production/Sorting/Solution02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/src/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/src/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/src/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/src/Solution02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting_Searching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting_Searching/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting_Searching/out/production/Sorting_Searching/MeetingRoom2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting_Searching/out/production/Sorting_Searching/MeetingRoom2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting_Searching/src/MeetingRoom2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting_Searching/src/MeetingRoom2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,9 +55,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -62,6 +66,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,11 +83,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627895589161" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,9 +129,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25797504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26592797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
