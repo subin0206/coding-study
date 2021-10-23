@@ -4,7 +4,7 @@ import java.util.Queue;
 public class Heap01 {
     public static void main(String[] args) {
         Heap01 heap01 = new Heap01();
-        int[]scoville = {1, 2, 3, 9, 10, 12};
+        int[]scoville = {1, 3, 2, 9, 12, 10 };
         heap01.solution(scoville, 7);
     }
     public int solution(int[] scoville, int K) {
@@ -28,6 +28,7 @@ public class Heap01 {
     }
     public int mixScoville(int a, int b){
         int mix = a+(b*2);
+        System.out.println(mix);
         return mix;
     }
     public boolean moreK(PriorityQueue pq, int k){
