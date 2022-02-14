@@ -2,36 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="564f3e6a-4fc6-4667-9a14-4a7c6fb88a3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/baek1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/baek2054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/MissingRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/bk1181.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;Queue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;Queue/src/BaseballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;Queue/src/BinaryTreeLevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;Queue/src/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoPointer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoPointer/src/FindAllAnagramInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoPointer/src/LongestSubMostTwoDistinct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoPointer/src/LongestSubWithoutRepeatChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/src/BruteForce01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/src/BruteForce02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/src/Heap02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programmers/src/Queue01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Array/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/out/production/Sorting/Solution01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/out/production/Sorting/Solution02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/if/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/out/production/programmers/Heap01.class" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/out/production/programmers/Heap01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmers/src/Heap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/src/Heap01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/baek2589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/baek2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/baek2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/MaximumDepthBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/MaximumDepthOfBinaryTree_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/MaximumDepthOfBinaryTree_DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/NumberOfIsland_bfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/NumberOfIsland_dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/src/maxOfIsland.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/baek1920.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/baek1920.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -53,7 +39,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,10 +50,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algorithm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,9 +82,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="760" y="0" width="784" height="832" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12348993" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26381215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
